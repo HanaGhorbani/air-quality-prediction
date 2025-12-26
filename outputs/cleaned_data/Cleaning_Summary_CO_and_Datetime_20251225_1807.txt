@@ -1,0 +1,7 @@
+Cleaning Summary - 20251225_1807
+Dataset: temp_synth_selected.csv
+Original rows: 5000
+Rows deleted due to CO(GT): 0
+Rows deleted due to Datetime: 0
+Total rows deleted: 0
+Final rows: 5000
